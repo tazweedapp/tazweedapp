@@ -14,7 +14,7 @@
 
 <p align="left">
     <a href="#">
-        <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+        <img src="svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
     </a>
 </p>
 
