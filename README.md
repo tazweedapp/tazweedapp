@@ -13,19 +13,19 @@
 <p align="left">
     <a href="#">
         <img src="svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
-    </a>
+    </a> 
     <a href="#">
         <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-    </a>
+    </a> 
     <a href="#">
         <img src="svg/dev/languages/csharp_dotnet.svg" alt="c# and dotnet" style="vertical-align:top; margin:6px 4px">
-    </a>
+    </a> 
     <a href="#">
         <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-    </a>
+    </a> 
     <a href="#">
         <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-    </a>
+    </a> 
     <a href="#">
         <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
     </a>
@@ -36,22 +36,22 @@
 
 <p align="left">
     <a href="#">
-        <img src="svg/dev/languages/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+        <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
     </a>
     <a href="#">
-        <img src="svg/dev/languages/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+        <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
     </a>    
     <a href="#">
-        <img src="svg/dev/languages/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+        <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
     </a> 
     <a href="#">
-        <img src="svg/dev/languages/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+        <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
     </a> 
     <a href="#">
-        <img src="svg/dev/languages/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
+        <img src="svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
     </a> 
     <a href="#">
-        <img src="svg/dev/languages/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
+        <img src="svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
     </a> 
 </p>
 
