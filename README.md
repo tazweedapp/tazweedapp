@@ -8,14 +8,51 @@
  <a href="https://twitter.com/novalabs_qa" target="blank"><img src="https://img.shields.io/twitter/follow/novalabs_qa?logo=twitter&style=for-the-badge" alt="novalabs_qa" style="height: 20px;" /></a>
 </p>
 
-<!-- <h4 align="left">Connect with us:</h4> -->
-
 <h4 align="left">Languages </h4>
 
 <p align="left">
     <a href="#">
         <img src="svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
     </a>
+    <a href="#">
+        <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+        <img src="svg/dev/languages/csharp_dotnet.svg" alt="c# and dotnet" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+        <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+        <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+        <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+    </a>
+</p>
+
+<!-- -->
+<h4 align="left">Frameworks </h4>
+
+<p align="left">
+    <a href="#">
+        <img src="svg/dev/languages/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    </a>
+    <a href="#">
+        <img src="svg/dev/languages/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+    </a>    
+    <a href="#">
+        <img src="svg/dev/languages/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+    </a> 
+    <a href="#">
+        <img src="svg/dev/languages/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+    </a> 
+    <a href="#">
+        <img src="svg/dev/languages/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
+    </a> 
+    <a href="#">
+        <img src="svg/dev/languages/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
+    </a> 
 </p>
 
 <!--
